@@ -141,3 +141,10 @@
     - Доступ к ресурсам сервера напрямую (можно читать файлы и т.д.)
     - Более безопасное хранение важной информации (токены, api-ключи и т.д.)
     - Хранения больших зависимостей на сервере. На клиент прилетает только JSON структура [Virtual DOM](#virtual-dom)
+
+## Используемые ресурсы:
+
+- https://beta.nextjs.org/docs
+- https://reactjs.org/docs/hooks-reference.html
+- https://vc.ru/seo/414784-javascript-i-seo-problemy-i-resheniya
+- https://vc.ru/seo/108149-odnostranichnye-spa-i-mnogostranichnye-pwa-veb-prilozheniya
